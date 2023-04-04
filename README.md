@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Loha Priya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right"alt="Coding"width="400"src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohapriya&label=Profile%20views&color=0e75b6&style=flat" alt="lohapriya" /> </p>
 
-- 🔭 I’m currently working on **Front end**
+- 🔭 I’m currently working on **WEB DEVELOPMENT**
 
 - 🌱 I’m currently learning **Angular**
 
@@ -12,7 +13,7 @@
 
 - 📫 How to reach me **lohapriyamanthiram@gmail.com**
 
-- ⚡ Quote of the day: **crack little get more**
+- ⚡ Quote of the day: **HELLO WORLD!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
