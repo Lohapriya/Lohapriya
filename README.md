@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Basic frameworks of web development**
 
-  - 📫 How to reach me : <a href="lohapriyamanthiram@gmail.com" target="_blank" rel="noreferrer"> Click here </a>
+  - 📫 How to reach me : <a mailto="lohapriyamanthiram@gmail.com" target="_blank" rel="noreferrer"> Click here </a>
 
 - ⚡ Quote of the day: **HELLO WORLD!!**
 
